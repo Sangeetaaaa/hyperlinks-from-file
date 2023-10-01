@@ -1,0 +1,17 @@
+{
+  "name": "get-hyperlinks-from-file",
+  "version": "1.0.0",
+  "description": "An NPM Package which helps you extract all the hyperlinks From PDF, Docx, Doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mammoth": "^1.6.0",
+    "node-stream-zip": "^1.11.2",
+    "pdf.js-extract": "^0.2.1"
+  }
+}
